@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme_Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/gray</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+</resources>
